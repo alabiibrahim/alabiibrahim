@@ -7,11 +7,4 @@ Hi, I’m Alabi Ibrahim
 
 - How to reach me alabi0147@gmail.com
 
-- Pronouns: He/Him
-
-- Fun fact: Turning numbers into insights
-
-<!---
-alabiibrahim/alabiibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data speaks i analyze its story
